@@ -1,0 +1,7 @@
+com.registro.usuarios
+com.registro.usuarios.controlador
+com.registro.usuarios.controlador.dto
+com.registro.usuarios.modelo
+com.registro.usuarios.repositorio
+com.registro.usuarios.seguridad
+com.registro.usuarios.servicio

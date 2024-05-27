@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.registro.usuarios"},{"l":"com.registro.usuarios.controlador"},{"l":"com.registro.usuarios.controlador.dto"},{"l":"com.registro.usuarios.modelo"},{"l":"com.registro.usuarios.repositorio"},{"l":"com.registro.usuarios.seguridad"},{"l":"com.registro.usuarios.servicio"}];updateSearchResults();
